@@ -19,7 +19,6 @@ NeuroLedger (NL) Framework enables real-time monitoring and analysis of Solana b
 
 - Node.js (v16 or higher)
 - npm
-- OpenAI API key
 - Internet connection
 
 ### Installation
