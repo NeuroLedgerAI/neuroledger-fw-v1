@@ -35,7 +35,6 @@ npm install
 Create a `.env` file in the root directory:
 
 ```env
-OPENAI_API_KEY=your_openai_api_key
 API_URL=https://theneuroledger.app
 ```
 
